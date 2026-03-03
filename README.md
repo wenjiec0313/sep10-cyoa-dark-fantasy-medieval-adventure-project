@@ -1,1 +1,1 @@
-# sep10-cyoa-dark-fantasy-medieval-adventure-project
+[Start?](start.md)
